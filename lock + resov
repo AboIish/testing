@@ -1,4 +1,4 @@
-_G.PRED =  0.129145
+_G.PRED =  0.449
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/AustraIia/dzcczxcxz/main/fxgf"))()
 Aiming.TeamCheck(false)
 
@@ -14,7 +14,7 @@ local CurrentCamera = Workspace.CurrentCamera
 getgenv().DaHoodSettings = {
     SilentAim = true,
     AimLock = false,
-    Prediction = 0.14,
+    Prediction = 0.449,
     AimLockKeybind = Enum.KeyCode.E,
     SilentAimBind = "V"
 }
