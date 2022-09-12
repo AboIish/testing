@@ -16,7 +16,7 @@ getgenv().DaHoodSettings = {
     AimLock = false,
     Prediction = 0.449,
     AimLockKeybind = Enum.KeyCode.E,
-    SilentAimBind = "V"
+    SilentAimBind = "T"
 }
 
 function Aiming.Check()
